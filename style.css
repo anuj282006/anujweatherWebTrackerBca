@@ -1,0 +1,56 @@
+body{
+   background-image: url("backgroundimage.jpeg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   filter: brightness(200);
+   
+}
+h1
+{
+    font-size: 100px;
+    color: white;
+margin-left: 500px;
+   display: block;
+
+
+}
+#input-bar
+{
+    display: block;
+    margin: auto;
+    width: 500px;
+    height: 50px;
+    color: black;
+    font-size: 30px;
+}
+#submit
+{
+    display: block;
+    color: black;
+    font-size: 20px;
+    width: 70px;
+    height: 40px;
+    background-color: coral;
+    margin-left: 800px;
+    margin-top: 20px;
+    border-radius: 50px;
+    cursor: pointer;
+
+}
+#display
+{
+    width: 700px;
+    height: 500px;
+    background-color: white;
+    margin: auto;
+    margin-top: 30px;
+    
+   
+}
+
+#display h1{
+font-size: 50px;
+margin-top: 60px;
+    color: black;
+    margin: auto;
+}
